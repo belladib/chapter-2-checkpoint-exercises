@@ -1,11 +1,23 @@
 // chapter 2 checkpoint exercises.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//isabella dibuono
+//9-6-24
+//chapter 2 checkpoints
+//checkpoint 2.17
 
 #include <iostream>
+#include <string>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    string name = "bella", address = "103 windsor lane", phoneNumber = "7572727494";
+    
+    cout << "my name is " << name << "\nmy address is " << address << "\nmy number is " << phoneNumber << '\n';
+    return 0;
+   
+    
+    //the wording of the question confused me so i think this is what i was supposed to do
+    //i'm not sure
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
