@@ -1,11 +1,21 @@
 // chapter 2 checkpoint exercises.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//isabella
+//9-6-24
+//chapter 2 checkpoints
+//checkpoint 2.20
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+	int age(18);
+	float weight(110);
+
+	
+	
+	
+	cout << "my age is " << age << "\nand my weight is " << weight << " pounds" << '\n';
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
